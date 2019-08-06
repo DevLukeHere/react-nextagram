@@ -25,8 +25,7 @@ export default class MyProfile extends React.Component {
 
 render() {
   return (
-    <div>
-      
+    <div>     
     </div>
   );
 }
